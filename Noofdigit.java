@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class NOofdigit {
+public class Noofdigit {
 
 public static void main(String[] args)
 {
