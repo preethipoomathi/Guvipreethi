@@ -1,5 +1,5 @@
 import java.util.*;
-public class Odd {
+public class Oddintervals {
 
 	public static void main(String[] args) {
 		
